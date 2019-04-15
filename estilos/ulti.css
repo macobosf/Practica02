@@ -1,0 +1,31 @@
+#nombre{
+	height: 20px;
+	width: 300px;	
+}
+
+#apellido{
+	height: 20px;
+	width: 300px;	
+}
+
+#mail{
+	height: 20px;
+	width: 300px;	
+}
+
+#mensaje{
+	height: 100px;
+	width: 300px;	
+}
+
+#nombre{
+	height: 20px;
+	width: 300px;	
+}
+
+#btnEnviar{
+	margin-left: 500px;
+	height: 50px;
+	width: 50px
+	
+}
