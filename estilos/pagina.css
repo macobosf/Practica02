@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+h1, p,  h2, h3, h4 {
+	color: white;
+	/*border-color: black;*/
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3, h4 {
+	text-transform: uppercase;
+	font-size: medium;
+}
+
+p{
+	font-size: small;
+	text-align: justify;
+}
+
+#indice{
+	border: 2px white solid;
+	width: 15%;
+	background: silver;
+	float: right;
+	border-radius: 35px;
+	margin: 0;
+	line-height: 45px;
+}
+
+.centrado{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px; 
+  height: 180px; 
+  border: 0px;
+}
+
+
+a{
+	text-decoration: none
+}
+
+.der{
+	float: right;
+	margin-left: 20px;
+}
+
+.iz{
+	float: left;
+	margin-right: 20px; 
+}
+
+#menuprincipal{
+	/*border-width: thin ;
+	border-color: white;
+	border-style: solid;*/
+	border: 2px white solid;
+	width: 15%;
+	float: left;
+	background: silver;
+	border-radius: 35px;
+	margin: 0;
+	line-height: 45px;
+}
+
+#contenido{
+	/*border-width: thick;
+	border-color: white;
+    border-style: solid;*/
+	width: 65%;
+	margin-left : 10px;
+	padding-left: 20px;
+	margin-right: 20px;
+	padding-left: 10px;
+	float: left;
+
+}
+
+#pie{
+	border: 2px white dashed;
+	width: 25%;
+	background: silver;
+	float: left;
+}
+
+body {
+	background-color: teal;
+}
